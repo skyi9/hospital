@@ -30,7 +30,7 @@ const DoctorContainer = () => {
                     <DocterCard img={doctor5} name={'Dr. Sarah Lynch'} location={'426 , w , randolf street , chicago'} specialist={'Neurologists'} />
                 </div>
                 <div className="col-md-4">
-                    <DocterCard img={doctor1} name={'Dr. Andrew Manson'} location={'701 , pike street  , seattle'} specialist={'Dermatalogists'} />
+                    <DocterCard img={doctor6} name={'Dr. Andrew Manson'} location={'701 , pike street  , seattle'} specialist={'Dermatalogists'} />
                 </div>
             </div>
         </div>
